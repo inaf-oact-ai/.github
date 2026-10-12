@@ -2,9 +2,17 @@
 
 ### Artificial Intelligence & Scientific Computing at INAF – Catania Astrophysical Observatory
 
-Welcome to the GitHub organization for **Artificial Intelligence (AI) research and development activities** at the **INAF – Catania Astrophysical Observatory (INAF-OACT)**, Italy.
+Welcome to the GitHub organization dedicated to **Artificial Intelligence (AI) and Data Science** activities at the **INAF – Catania Astrophysical Observatory (INAF-OACT)**, Italy.
 
-## 🔭 About Us
+Our activities are coordinated within **LIRA (Laboratory for Interdisciplinary Research in Astronomy and AI)**, a virtual laboratory established at INAF-OACT to foster interdisciplinary research, technological innovation, and collaboration in AI and Data Science.
+
+LIRA brings together researchers and technologists working on **Machine Learning, Deep Learning, and Generative AI**, with applications spanning astrophysics and other scientific and industrial domains. The laboratory also promotes knowledge transfer, training, and collaborations with academic institutions and industry.
+
+This GitHub organization hosts open-source software, AI models, scientific pipelines, and tools developed within these activities, supporting **open science, reproducibility, and collaborative research**.
+
+🔗 **Learn more:** [LIRA – AI & Data Science Lab](https://www.oact.inaf.it/en/ai-data-science-lab-en/)
+
+## 🔭 Research & Development Areas
 
 We develop and apply **Artificial Intelligence, Machine Learning, and advanced scientific computing techniques** to address challenges in astrophysics, astronomy, and related scientific and technological domains.
 
